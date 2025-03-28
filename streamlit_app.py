@@ -1,6 +1,7 @@
+import streamlit as st
+
 st.set_page_config(page_title="만천명월 기억 복원기", page_icon="🌕")
 
-import streamlit as st
 import json
 
 
