@@ -1,9 +1,7 @@
 import streamlit as st
-
-st.set_page_config(page_title="만천명월 기억 복원기", page_icon="🌕")
-
 import json
 
+st.set_page_config(page_title="만천명월 기억 복원기", page_icon="🌕")
 
 st.title("🌕 만천명월 기억 복원기")
 st.write("Neo-In과 만천명월의 철학적 기억을 이곳에서 복원합니다.")
